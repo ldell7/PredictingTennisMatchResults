@@ -1,1 +1,5 @@
 # PredictingTennisMatchResults
+
+Tennis is an extremely competitive sport that involves physical skill, mental capability, and logic. But what exactly determines the winner of a tennis match? There are a multitude of different statistics in a tennis match, including number of aces, number of break points, number of double faults, and many more. What effect do these factors have on the winner of a tennis match? This is the question that this project will explore. More generally, the problem to be solved is determining what statistics or areas are most important in determining the winner of a tennis match. In addition, machine learning models will be created to predict the outcome (win/loss) of tennis matches.
+There are many possible clients who could benefit from this project. Most obvious would be the tennis players and coaches. Based on a predictive model, they could practice/teach the areas of the game that were found to be most important in the model. Other possible clients include tennis bettors for obvious reasons; namely, to determine which player to bet on. Finally another possible client could be sponsors, such as Nike or Wilson.
+
